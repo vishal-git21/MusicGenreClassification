@@ -1,4 +1,4 @@
-# Music Genre Classification Challenge
+# Music Genre Classification
 
 ## Introduction:
 Welcome to the Music Genre Classification Challenge! This competition invites data enthusiasts and machine learning experts to harness the power of machine learning to classify music genres. The dataset provided consists of audio features extracted from 3-second audio clips, along with corresponding genre labels. Participants will build machine learning models to accurately classify the music genres of these clips.
